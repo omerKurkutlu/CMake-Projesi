@@ -24,3 +24,14 @@ cd build
 ./Polonom.exe
 ```
 
+### OUTPUT Şu şekilde olmalı
+
+```bash
+Greetings POLONOM
+
+Student name=Omer KURKUTLU
+Student Id=15
+
+Hence, we succesfully  implemented CMake
+```
+
