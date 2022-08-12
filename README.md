@@ -12,7 +12,7 @@ GitHub'tan projeyi indin ve size uygun IDE'de programı açın.(VSCode tavsiye e
 ### 2-'build' dosyasına girin
 
 ```bash
-cd build
+cd /build
 ```
 
 ### 3-Programı execute etmek için once 
