@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Greetings POLONOM"<<endl<<endl;
+	cout<<"Bu projeden herkeze merhaba"<<endl<<endl;
 
 	student s;
 	s.id=15;

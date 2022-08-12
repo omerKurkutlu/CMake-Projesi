@@ -6,11 +6,8 @@ CMake, derleyiciden bağımsız bir yöntem kullanarak yazılımın oluşturulma
 
 GitHub'tan projeyi indin ve size uygun IDE'de programı açın.(VSCode tavsiye edilir, CMake extension kullanarakta çalıştırabilirsiniz veya Terminal yardımıı ile...) <br/>
 
-### 1-Terminal yardımı ile önce file directory değiştirin.
+### 1-Dosyayi indirdiginiz yerde saga tiklayip, ternimal ac secenegini tiklayiniz 
 
-```bash
-cd ProjectFolder
-```
 
 ### 2-'build' dosyasına girin
 
@@ -18,10 +15,20 @@ cd ProjectFolder
 cd build
 ```
 
-### 3-Programı execute etmek için aşağıdaki komutu çalıştırın
+### 3-Programı execute etmek için once 
 
 ```bash
-./Polonom.exe
+cmake ..
+```
+### 3-Sonra
+
+```bash
+make
+```
+### 3-Programı calistirmak icinde
+
+```bash
+./Deneme
 ```
 
 ### OUTPUT Şu şekilde olmalı
